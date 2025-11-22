@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 
 # %%
-unsw_df = pd.read_csv("UNSW_NB15_training-set.csv")
+unsw_df = pd.read_csv("UNSW_NB15_MODELS/UNSW_NB15_training-set.csv")
 nsl_df = pd.read_csv("kdd_train.csv")
 
 unsw_df.head(100)
