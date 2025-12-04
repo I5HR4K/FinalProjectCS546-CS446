@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e5be8e-a1d0-4298-9cf3-e647d5ed1920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NSL_KDD_MODELS/bagging-model.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="36e5be8e-a1d0-4298-9cf3-e647d5ed1920" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,11 +71,22 @@
       <option name="presentableId" value="Default" />
       <updated>1763175927303</updated>
       <workItem from="1763175928430" duration="12074000" />
-      <workItem from="1764291727934" duration="9064000" />
+      <workItem from="1764291727934" duration="13252000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/fuadamin/Documents/CS546/Project/FinalProjectCS546-CS446/NSL_KDD_MODELS/baggingclassifier-model.ipynb</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
