@@ -18,8 +18,6 @@ Our goal wasn’t just high accuracy—it was balanced, trustworthy detection us
 
 📈 What We Did Better Than the Paper
 
-This is where the project truly stands out.
-
 Balanced Metrics Over Inflated Accuracy
 
 The original paper achieved high accuracy on NSL-KDD but suffered in precision/recall.
