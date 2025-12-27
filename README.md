@@ -15,3 +15,35 @@ UNSW-NB15
 NSL-KDD
 
 Our goal wasn’t just high accuracy—it was balanced, trustworthy detection using precision, recall, and F1-score to avoid misleading results common in cybersecurity ML research.
+
+📈 What We Did Better Than the Paper
+
+This is where the project truly stands out.
+
+Balanced Metrics Over Inflated Accuracy
+
+The original paper achieved high accuracy on NSL-KDD but suffered in precision/recall.
+
+Our SMOTE-based pipeline produced more realistic, deployable results.
+
+Model-Specific Feature Engineering
+
+Applied binarization for Bernoulli Naive Bayes, aligning data with mathematical assumptions.
+
+Result: significantly improved F1 scores compared to the paper.
+
+Cleaner Data = Better Generalization
+
+Isolation Forest removed noisy outliers that degrade ML performance in real networks.
+
+This demonstrates critical thinking, not blind replication.
+
+🛠️ Tech Stack
+
+Python
+
+Scikit-learn
+
+Pandas / NumPy
+
+Jupyter Notebook
